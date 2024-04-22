@@ -21,6 +21,7 @@ body{
     color: #dddf
 }
 .container {
+    max-width: 900px;
     background-color: #24d;
     color: beige;
     padding: 40px 120px;
